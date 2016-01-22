@@ -1,0 +1,239 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.both {
+  clear: both;
+}
+
+/*###############HEADER##############################""*/
+
+header {
+  height: 600px;
+  background-image: url("../images/payments-banner-graphic.png");
+  color: white;
+}
+
+header div img {
+  float: left;
+  height: 30px;
+  width: 30px;
+}
+
+header .bonzai {
+  font-size: 14px;
+  padding-top: 17px;
+  padding-left: 15px;
+  display: inline-block;
+}
+
+header .bonzai p {
+  display: inline-block;
+  padding-left: 15px;
+  padding-top: 2px;
+  font-size: 22px;
+}
+
+header .login {
+  float: right;
+  padding-right: 15px;
+  margin-top: 28px;
+
+}
+
+header .login li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+header .login a {
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+header h1 {
+  font-size: 45px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+header h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+header .bouton1 {
+  background-color: white;
+  height: 42px;
+  width: 320px;
+  text-align: center;
+  margin: auto;
+  border-radius: 3px;
+  margin-top: 40px;
+}
+
+header .bouton1 a {
+  color: #8080be;
+  text-decoration: none;
+  margin-top: 12px;
+  display: inline-block;
+}
+
+/*############SECTION QUICK###########################""*/
+
+#quick {
+  height: 310px;
+  text-align: center;
+  padding-top: 100px;
+  padding-top: 78px;
+}
+
+#quick .quick1 {
+  display: inline-block;
+  width: 30%;
+}
+
+#quick .quick1 img {
+  height: 70px;
+}
+
+#quick h3 {
+  color: #796e79;
+  font-size: 22px;
+  margin-top: 18px;
+}
+
+#quick p {
+  color: #767a91;
+  margin-top: 18px;
+}
+
+/*##########SECTION DOLLAR#########################""*/
+
+#dollar {
+  height: 310px;
+  background-color: #f6f9fb;
+  border-top: 1px solid #767a91;
+  padding-top: 70px;
+}
+
+#dollar .doldol {
+  text-align: center;
+}
+
+#dollar h3 {
+  color: #767a91;
+  font-size: 22px;
+  margin-top: 7px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#dollar .dollar1 p {
+  font-size: 65px;
+  color: #8080be;
+  float: left;
+  margin-left: 475px;
+}
+
+#dollar #PER {
+  font-size: 32px;
+  color: #796e79;
+  display: *inline-block;
+}
+
+/*##############SECTION GREY########################""*/
+
+#grey {
+  height: 90px;
+  background-color: #4c535c;
+  padding-top: 30px;
+}
+
+#grey p {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+/*#############SECTION IMG-1#############################""*/
+
+
+#img-1 .img-1A {
+  background-color: #7cd5ef;
+  width: 50%;
+  float: left;
+  height: 490px;
+}
+
+#img-1 img {
+  width: 520px;
+  height: 410px;
+  text-align: center;
+  height: 410px;
+}
+
+#img-1 .img-1B {
+  width: 50%;
+  height: 490px;
+  float: right;
+  text-align: center;
+}
+
+/*#######SECTION IMG 2############################################""*/
+
+#img-2 {
+
+}
+
+#img-2 .img-2A {
+  width: 50%;
+  height: 465px;
+  float: left;
+  text-align: center;
+}
+
+#img-2 .img-2B {
+  width: 50%;
+  height: 465px;
+  background-color: #8080be;
+  float: right;
+}
+
+#img-2 img {
+  height: 400px;
+  width: 300px;
+}
+
+/*#########SECTION IMG3####################""*/
+
+#img-3 .img-3A {
+  background-color: #7cd5ef;
+  width: 50%;
+  float: left;
+  height: 490px;
+}
+
+#img-3 img {
+  width: 520px;
+  height: 410px;
+  text-align: center;
+  height: 410px;
+}
+
+#img-3 .img-1B {
+  width: 50%;
+  height: 490px;
+  float: right;
+  text-align: center;
+}
